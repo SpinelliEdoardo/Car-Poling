@@ -1,0 +1,11 @@
+cosa serve?
+
+pagina index.html --> home del sito
+navbar con opzioni --> prenota, zona recensioni
+sing in - sing up, nel caso l'utene sia loggato, permettere il logout
+
+pagina le mie prenotazioni, solo se sono state accettate
+
+nome della compagnia CarPu
+
+color palette --> https://coolors.co/00296b-003f88-00509d-fdc500-ffd500
